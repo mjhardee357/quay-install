@@ -27,4 +27,4 @@ spec:
       kind: quay
     - managed: true
       kind: clairpostgres
-  configBundleSecret: quay-operator-token-7nttm
+  configBundleSecret: 
